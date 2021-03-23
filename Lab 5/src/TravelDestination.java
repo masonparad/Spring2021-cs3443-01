@@ -18,14 +18,10 @@ public class TravelDestination {
 		System.out.println("My name is Courtney Gaura. I wish to travel to New York once this Covid goes away!");
 		System.out.println("My name is Hailey Morris. I wish to travel to Korea once this Covid goes away!");
 		System.out.println("My name is Samuel Pilato. I wish to travel to Kansas once this Covid goes away!");
-<<<<<<< HEAD
-		System.out.println("My name is Mark Zimmerschied. I wish to travel to Japan once this Covid goes away!");
-	}	
-=======
+		System.out.println("My name is Mark Zimmerschied. I wish to travel to Japan once this Covid goes away!");	
 		System.out.println("My name is Roland Sanchez. I wish to travel to Japan once covid goes away.");
 		System.out.println("My name is Alexander Bush. I wish to travel to Tokyo once this Covid goes away!");
 		System.out.println("My name is Yzan Qaryouti. I wish to travel to Spain once this Covid goes away!");
 	}
->>>>>>> main
 
 }
