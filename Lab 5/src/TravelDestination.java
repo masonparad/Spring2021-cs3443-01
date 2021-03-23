@@ -1,4 +1,3 @@
-
 public class TravelDestination {
 
 	public static void main(String[] args) {
@@ -24,6 +23,8 @@ public class TravelDestination {
 	}	
 =======
 		System.out.println("My name is Roland Sanchez. I wish to travel to Japan once covid goes away.");
+		System.out.println("My name is Alexander Bush. I wish to travel to Tokyo once this Covid goes away!");
+		System.out.println("My name is Yzan Qaryouti. I wish to travel to Spain once this Covid goes away!");
 	}
 >>>>>>> main
 
